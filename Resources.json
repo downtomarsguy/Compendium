@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Coding",
+    "description": "Coding related resources",
+    "resources": 9,
+    "last_updated": "7d ago"
+  },
+  {
+    "category": "Linux",
+    "description": "Linux resources/links",
+    "resources": 2,
+    "last_updated": "10d ago"
+  },
+  {
+    "category": "Socionics",
+    "description": "Socionics based resourced",
+    "resources": 8,
+    "last_updated": "13d ago"
+  }
+]
