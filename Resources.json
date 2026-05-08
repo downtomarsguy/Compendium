@@ -27,7 +27,8 @@
     "description": "APP1 resourced",
     "resources": 8,
     "tags": ["AP", "Physics"],
-    "last_updated": "13d ago"
+    "location": "/Resources/APP1.md",
+    "last_updated": "1d ago"
   },
   {
     "category": "AP Physics 2",
