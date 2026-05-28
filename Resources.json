@@ -31,39 +31,18 @@
     "last_updated": "1d ago"
   },
   {
-    "category": "AP Physics 2",
-    "description": "APP1 resources",
-    "resources": 8,
-    "tags": ["AP", "Physics"],
-    "last_updated": "13d ago"
-  },
-  {
     "category": "AP Physics C: Mechanics",
     "description": "APPCM based resources",
     "resources": 8,
     "tags": ["AP", "Physics"],
     "last_updated": "13d ago"
-  },
-    {
-    "category": "AP Physics C: E&M",
-    "description": "APPCE&M based resources",
-    "resources": 0,
-    "tags": ["AP", "Physics"],
-    "last_updated": "13d ago"
-  },
-  {
-    "category": "AP Calculus AB",
-    "description": "APCAB based resources",
-    "resources": 0,
-    "tags": ["AP", "Mathematics", "Calculus"],
-    "last_updated": "13d ago"
-  },
-  {
-    "category": "AP Calculus BC",
-    "description": "APCBC based resources",
-    "resources": 8,
-    "tags": ["AP", "Mathematics", "Calculus"],
-    "last_updated": "13d ago"
   }
-
+  {
+    "category": "Calculus",
+    "description": "Calculus based resources",
+    "resources": 6,
+    "tags": ["Mathematics", "Calculus"],
+    "location": "/Resources/Calculus.md",
+    "last_updated": "1d ago"
+  }
 ]
