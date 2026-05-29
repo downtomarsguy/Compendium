@@ -5,15 +5,15 @@
     "resources": 17,
     "tags": ["Computers"],
     "location": "/Resources/Coding.md",
-    "last_updated": "7d ago"
+    "last_updated": "05/13/26"
   },
   {
     "category": "Linux",
     "description": "Linux resources/links",
-    "resources": 2,
+    "resources": 22,
     "tags": ["Computers"],
     "location": "/Resources/Linux.md",
-    "last_updated": "10d ago"
+    "last_updated": "05/29/26"
   },
   {
     "category": "Socionics",
@@ -28,7 +28,7 @@
     "resources": 22,
     "tags": ["AP", "Physics"],
     "location": "/Resources/APP1.md",
-    "last_updated": "1d ago"
+    "last_updated": "05/07/26"
   },
   {
     "category": "AP Physics C: Mechanics",
@@ -43,6 +43,6 @@
     "resources": 6,
     "tags": ["Mathematics", "Calculus"],
     "location": "/Resources/Calculus.md",
-    "last_updated": "1d ago"
+    "last_updated": "05/27/26"
   }
 ]
