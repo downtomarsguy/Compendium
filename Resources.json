@@ -35,7 +35,8 @@
     "description": "APPCM based resources",
     "resources": 8,
     "tags": ["AP", "Physics"],
-    "last_updated": "13d ago"
+    "location": "/Resources/APPCM.md",
+    "last_updated": "05/16/26"
   },
   {
     "category": "Calculus",
